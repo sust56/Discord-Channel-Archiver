@@ -49,9 +49,6 @@ The **Discord Channel Archiver** automates the tedious process of manually savin
 | **Multi-Device Integration** | Supports simultaneous archiving from multiple emulators or devices using Appilot parallelization. |
 | **Exponential Growth for Your Account** | Enhance productivity by managing multiple channels’ data simultaneously. |
 | **Premium Support** | Get assistance for integration, scaling, and custom export formats. |
-
-| Feature | Description |
-|----------|-------------|
 | **Custom Export Formats** | Save archives as JSON, CSV, HTML, or Markdown for flexible analysis and viewing. |
 | **Selective Channel Filtering** | Choose specific servers, categories, or channels to archive. |
 | **Scheduled Backups** | Automatically trigger exports daily, weekly, or monthly via Appilot scheduler. |
